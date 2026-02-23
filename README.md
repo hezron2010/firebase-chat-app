@@ -1,22 +1,22 @@
-# 💬 Firebase Chat App
+#  Firebase Chat App
 
 A real-time chat application built with **Firebase Authentication** and **Cloud Firestore**.
 
-🔗 **Live Demo:** https://fir-chat-app-7ee31.web.app
+ **Live Demo:** https://fir-chat-app-7ee31.web.app
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User Authentication (Firebase Auth)
-- 💬 Real-time messaging (Cloud Firestore)
-- 👤 Displays sender email with each message
-- ⚡ Instant updates without refreshing
-- 📱 Clean, responsive UI
+-  User Authentication (Firebase Auth)
+-  Real-time messaging (Cloud Firestore)
+-  Displays sender email with each message
+-  Instant updates without refreshing
+-  Clean, responsive UI
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - HTML5
 - CSS3
@@ -27,15 +27,16 @@ A real-time chat application built with **Firebase Authentication** and **Cloud 
 
 ---
 
-##🔥 How It Works
+## How It Works
 
 -Users sign in using Firebase Authentication.
 -Messages are stored in Firestore.
 -Real-time listeners update the chat instantly for all users.
 -Firebase Hosting serves the application globally.
 
-##👨‍💻 Author
+## Author
 
 Mutua Hezron
 
 GitHub: https://github.com/hezron2010
+
